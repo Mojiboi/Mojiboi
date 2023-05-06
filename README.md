@@ -1,5 +1,5 @@
 <div id="header" align="center"  >
-  <img src="https://avatars.githubusercontent.com/u/93826303?v=4"width="150"/>
+  <img src="https://avatars.githubusercontent.com/u/93826303?v=4"width="150"class="pic"/>
   <div id="badges">
   
   <a href="https://mojicodez.surge.sh">
@@ -18,7 +18,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/aTMLvyA.jpg" width="600"/>
+  <img src="https://media4.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif?cid=ecf05e47jxw2b63bvmogiyibduspe2w5m4fzzbtoc9fildwz&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600"/>
 </div>
 
 ---
